@@ -43,7 +43,7 @@ const Home = () => {
               duration: 0.8,
             }}
           >
-            Ihr Leben. Unser Service sd ad as dsadsa dsad.
+            This is the change I made
           </motion.h1>
           <motion.p
             className="text-3xl md:text-5xl font-serif text-gold mb-8"
